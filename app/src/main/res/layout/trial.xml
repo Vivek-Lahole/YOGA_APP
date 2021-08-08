@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="130dp"
+        android:layout_margin="5dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="20dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0.3"
+                android:src="@drawable/chart"
+                app:tint="#77000000">
+
+            </ImageView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginRight="3dp"
+                android:layout_marginBottom="3dp"
+                android:src="@drawable/chart">
+
+            </ImageView>
+
+
+        </RelativeLayout>
+
+        <ImageView
+            android:id="@+id/songImage"
+            android:layout_width="120dp"
+            android:layout_height="match_parent"
+            android:src="@drawable/yoga_applogo_final">
+        </ImageView>
+
+        <RelativeLayout
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:alpha="0.3"
+                android:src="@drawable/bgright"
+                app:tint="#77000000">
+
+            </ImageView>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="1dp"
+                android:layout_marginRight="1dp"
+                android:layout_marginBottom="1dp"
+                android:src="@drawable/bgright">
+
+            </ImageView>
+
+            <ImageView
+                android:id="@+id/Play_button"
+                android:layout_width="35dp"
+                android:layout_height="35dp"
+                android:scaleType="center"
+                android:layout_margin="8dp"
+                android:src="@drawable/ic_play_arrow_black">
+            </ImageView>
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="110dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/songName"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_gravity="bottom"
+                android:layout_weight="1"
+                android:fontFamily="@font/aladin"
+                android:paddingLeft="70dp"
+                android:paddingTop="50dp"
+                android:text="ramen"
+                android:textAllCaps="true"
+                android:textSize="20sp">
+
+            </TextView>
+
+
+        </LinearLayout>
+    </RelativeLayout>
+</RelativeLayout>

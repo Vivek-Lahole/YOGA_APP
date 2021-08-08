@@ -1,0 +1,2 @@
+org/tensorflow/lite/examples/posenet/lib/BuildConfig.java
+ org.tensorflow.lite.examples.posenet.lib.BuildConfig

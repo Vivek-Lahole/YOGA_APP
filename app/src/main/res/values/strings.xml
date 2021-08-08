@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+ Copyright 2016 The TensorFlow Authors. All Rights Reserved.
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+<resources>
+    <string name="tfe_pn_app_name" translation_description="Posenet demo app built with Posenet library [CHAR_LIMIT=40]">YOGA</string>
+    <string name="tfe_pn_request_permission" translation_description="Request camera permission [CHAR_LIMIT=40]">This app needs camera permission.</string>
+    <string name="tfe_pe_tv_score">Match (percentage)  :  %.2f  </string>
+    <string name="aasan_name_display">Match (percentage)  :  %.2f  </string>
+    <string name="default_dialouge">Loading....</string>
+    <string name="Ut">Stand in Tadasana. With an exhalation, step or lightly jump your feet 3 1/2 to 4 feet apart. Raise your arms parallel to the floor and reach them actively out to the sides, shoulder blades wide, palms down.
+Turn your left foot in slightly to the right and your right foot out to the right 90 degrees. Align the right heel with the left heel. Firm your thighs and turn your right thigh outward, so that the center of the right knee cap is in line with the center of the right ankle.
+Exhale and extend your torso to the right directly over the plane of the right leg, bending from the hip joint, not the waist. Anchor this movement by strengthening the left leg and pressing the outer heel firmly to the floor. Rotate the torso to the left, keeping the two sides equally long. Let the left hip come slightly forward and lengthen the tailbone toward the back heel.
+Rest your right hand on your shin, ankle, or the floor outside your right foot, whatever is possible without distorting the sides of the torso. Stretch your left arm toward the ceiling, in line with the tops of your shoulders. Keep your head in a neutral position or turn it to the left, eyes gazing softly at the left thumb.
+Stay in this pose for 30 seconds to 1 minute. Inhale to come up, strongly pressing the back heel into the floor and reaching the top arm toward the ceiling. Reverse the feet and repeat for the same length of time to the left.
+</string>
+    <string name="vv">Begin in Mountain Pose, standing with feet hip-distance apart and arms at the sides. Turn to the left and step both feet wide apart, about 4-5 feet. Align the heels.
+Turn the right foot out 90 degrees, so the toes are pointing to the top of the mat.  Pivot the left foot slightly inwards. The back toes should be at a 45-degree angle.
+Raise the arms to the side to shoulder-height, parallel to the floor. The arms should be aligned directly over the legs. With palms facing down, reach actively from fingertip to fingertip.
+Exhale while bending the front knee. Align the knee directly over the ankle of the front foot.  Take care that the front shin is perpendicular to the floor. Sink the hips low, eventually bringing the front thigh parallel to the floor. This is Warrior II.
+With the next exhale, drop the left (back) hand to the back of the left thigh. With the next inhale, lift the right arm straight up, reaching the fingertips toward the ceiling. The right bicep should be next to the right ear.
+Keep the front knee bent and the hips sinking low while lengthening through the sides of the waist. Slide the back hand further down the leg and come into a slight backbend.
+Tilt the head slightly and gaze to the right hand’s fingertips.
+Keep the shoulders relaxed, chest lifted and the sides of the waist long.
+Hold for 10-20 breaths.
+</string>
+	<string name="Utkatasana">Stand with your back against a wall and your hands on your hips.
+Step your feet about 2 feet away from the wall and bend your knees into a right angle, as though you’re sitting in a chair.
+Adjust your feet so that your shins are perpendicular to them, with your knees stacked above your ankles.
+</string>
+    <string name="Virvhadrasana">Stand erect and spread your legs about three to four feet apart. Your right foot should be in the front and the left foot behind.
+Now, turn your right foot outwards by 90 degrees and the left by 15 degrees, making sure the heel of the right foot is perfectly aligned with the center of the left foot.
+Lift your arms sideways until they reach the height of your shoulders. Your arms must be parallel to the ground, and your palms should be facing upwards.
+Exhale and bend your right knee, such that your knee and ankle form a straight line. Make sure that your knee does not go ahead of your ankle.
+Now turn your gaze to your right.
+As you move into the pose, stretch your arms further and join your palms above your head. Look at your palms. Gently push your pelvis down.
+Hold the pose with the same determination as a warrior, and wear a smile on your face. Breathe normally and keep going down.
+Inhale and come up.
+Exhale and gently bring your hands down from the sides.
+Repeat this pose on the left side, with your left leg in the front and the right one at the back.
+</string>
+    <string name="Tadasan">Stand straight on the ground, and take a small gap between your feet.
+With deeply breathing (inhale), raise your both arms.
+Keep your arms upward by interlocking your fingers.
+Now come on the toes by raising your heels simultaneously
+Feel the pressure of stretching from toes to fingers.
+Try to maintain this pose as long as you can with slow and deep breathing.
+Now come to the original position with deep breathing (exhale).
+You can perform the number of rounds as per your convenience after having relaxation for a while.
+</string>
+    <string name="Vrikshasan">
+	First stand properly and straightly, and place your feet together keep your knees completely straight.
+	Keep your arms at the particular sides.
+	Without twisting your left knee, lift up your right foot and hold the lower leg (ankle) from your right hand.
+	Now fold your right leg at the knee joint.
+	By using your both hands, put the right heel on the left thigh as high as could be expected under the circumstances. Your toes indicating downwards.
+	Your right heel ought to press within the thigh.
+	Now try to balance yourself on the left leg.
+	After that join your palms and fingers and place them to the side of your left leg.Also join your palms and fingers and place them to the mid-section of your chest, at that point your fingers should indicating upwards like Namaskar pose or petition to God posture.
+	Now breathe in and lift up your held hands gradually over your head.
+	Try to stretch up yourself and stand straight along with keeping your balance.
+	Look in straight and keep up this posture breathing ordinarily (Hold the position as long as you can).
+	Breathe out and bring down your hands to the chest.
+	Come back to the initial position.
+	Repeat the pose with your other leg.
+</string>
+    <string name="Suryanamaskar">Stand at the edge of your mat, keep your feet together and balance your weight equally on both the feet. Expand your chest and relax your shoulders. As you breathe in, lift both arms up from the sides and as you exhale, bring your palms together in front of the chest in prayer position.  </string>
+    <string name="tfe_pn_camera_error" translation_description="Error regarding camera support[CHAR_LIMIT=40]">This device doesn\'t support Camera2 API.</string>
+</resources>

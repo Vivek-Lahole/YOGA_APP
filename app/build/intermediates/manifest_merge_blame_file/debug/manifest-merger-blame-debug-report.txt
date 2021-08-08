@@ -1,0 +1,106 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="org.tensorflow.lite.examples.posenet"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+7-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:5:5-17
+8        android:minSdkVersion="23"
+8-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:5:5-17
+9        android:targetSdkVersion="30" />
+9-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:5:5-17
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+11-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:7:5-80
+11-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:7:22-77
+12    <uses-permission android:name="android.permission.CAMERA" />
+12-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:8:5-65
+12-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:8:22-62
+13
+14    <uses-feature android:name="android.hardware.camera" />
+14-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:10:5-60
+14-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:10:19-57
+15    <uses-feature android:name="android.hardware.camera.autofocus" />
+15-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:11:5-70
+15-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:11:19-67
+16
+17    <application
+17-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:13:5-43:19
+18        android:allowBackup="true"
+18-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:14:9-35
+19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+19-->[androidx.core:core:1.5.0] D:\Softwares\Android Studio\gradle-6.9\caches\transforms-3\71df2256907dd7f48d9c4e3a76e67122\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+20        android:debuggable="true"
+21        android:extractNativeLibs="false"
+22        android:icon="@mipmap/ic_launcher"
+22-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:15:9-43
+23        android:label="@string/tfe_pn_app_name"
+23-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:16:9-48
+24        android:requestLegacyExternalStorage="true"
+24-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:17:9-52
+25        android:roundIcon="@mipmap/ic_launcher_round"
+25-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:18:9-54
+26        android:supportsRtl="true"
+26-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:19:9-35
+27        android:testOnly="true"
+28        android:theme="@style/AppTheme.Posenet" >
+28-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:20:9-48
+29        <activity android:name="org.tensorflow.lite.examples.posenet.MusicActivity" />
+29-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:21:9-51
+29-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:21:19-48
+30        <activity android:name="org.tensorflow.lite.examples.posenet.suryanamaskar" />
+30-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:22:9-51
+30-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:22:19-48
+31        <activity android:name="org.tensorflow.lite.examples.posenet.MainActivity" />
+31-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:23:9-50
+31-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:23:19-47
+32        <activity android:name="org.tensorflow.lite.examples.posenet.CameraActivity" />
+32-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:24:9-52
+32-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:24:19-49
+33        <activity
+33-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:25:9-28:55
+34            android:name="org.tensorflow.lite.examples.posenet.TestActivity"
+34-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:26:13-41
+35            android:exported="true"
+35-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:27:13-36
+36            android:label="@string/tfe_pn_app_name" />
+36-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:28:13-52
+37        <activity
+37-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:29:9-38:20
+38            android:name="org.tensorflow.lite.examples.posenet.introActivity"
+38-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:30:13-42
+39            android:exported="true"
+39-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:31:13-36
+40            android:theme="@style/Theme.AppCompat.Light.NoActionBar" >
+40-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:32:13-69
+41            <intent-filter>
+41-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:33:13-37:29
+42                <action android:name="android.intent.action.MAIN" />
+42-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:34:17-69
+42-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:34:25-66
+43
+44                <category android:name="android.intent.category.LAUNCHER" />
+44-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:36:17-77
+44-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:36:27-74
+45            </intent-filter>
+46        </activity>
+47
+48        <meta-data
+48-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:40:9-42:57
+49            android:name="preloaded_fonts"
+49-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:41:13-43
+50            android:resource="@array/preloaded_fonts" />
+50-->D:\mdg_yoga_app\examples-master\lite\examples\posenet\android\app\src\main\AndroidManifest.xml:42:13-54
+51
+52        <provider
+52-->[com.squareup.picasso:picasso:2.71828] D:\Softwares\Android Studio\gradle-6.9\caches\transforms-3\3a6493c89457dc07726156895ae5ee62\transformed\picasso-2.71828\AndroidManifest.xml:8:9-11:40
+53            android:name="com.squareup.picasso.PicassoProvider"
+53-->[com.squareup.picasso:picasso:2.71828] D:\Softwares\Android Studio\gradle-6.9\caches\transforms-3\3a6493c89457dc07726156895ae5ee62\transformed\picasso-2.71828\AndroidManifest.xml:9:13-64
+54            android:authorities="org.tensorflow.lite.examples.posenet.com.squareup.picasso"
+54-->[com.squareup.picasso:picasso:2.71828] D:\Softwares\Android Studio\gradle-6.9\caches\transforms-3\3a6493c89457dc07726156895ae5ee62\transformed\picasso-2.71828\AndroidManifest.xml:10:13-72
+55            android:exported="false" />
+55-->[com.squareup.picasso:picasso:2.71828] D:\Softwares\Android Studio\gradle-6.9\caches\transforms-3\3a6493c89457dc07726156895ae5ee62\transformed\picasso-2.71828\AndroidManifest.xml:11:13-37
+56    </application>
+57
+58</manifest>
