@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.appcompat:appcompat-resources:1.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/f5521eaacf2a7da20079109f3c892a05/transformed/appcompat-resources-1.1.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/f5521eaacf2a7da20079109f3c892a05/transformed/appcompat-resources-1.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/f5521eaacf2a7da20079109f3c892a05/transformed/appcompat-resources-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/0c13162a4c0d36db5ef4a1abfdcc44d0/transformed/appcompat-resources-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/0c13162a4c0d36db5ef4a1abfdcc44d0/transformed/appcompat-resources-1.1.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/0c13162a4c0d36db5ef4a1abfdcc44d0/transformed/appcompat-resources-1.1.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

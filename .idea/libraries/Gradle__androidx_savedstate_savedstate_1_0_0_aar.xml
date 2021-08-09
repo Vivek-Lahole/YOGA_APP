@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.savedstate:savedstate:1.0.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/dda98a8fe1a1ed395f1c7e5185f5d50b/transformed/savedstate-1.0.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/dda98a8fe1a1ed395f1c7e5185f5d50b/transformed/savedstate-1.0.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/dda98a8fe1a1ed395f1c7e5185f5d50b/transformed/savedstate-1.0.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/846e77017ba7a6b60572fcdb7cddc9e7/transformed/savedstate-1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/846e77017ba7a6b60572fcdb7cddc9e7/transformed/savedstate-1.0.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/846e77017ba7a6b60572fcdb7cddc9e7/transformed/savedstate-1.0.0/AndroidManifest.xml" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

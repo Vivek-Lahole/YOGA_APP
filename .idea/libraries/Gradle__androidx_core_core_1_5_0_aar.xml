@@ -1,12 +1,12 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core:1.5.0@aar">
     <ANNOTATIONS>
-      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/71df2256907dd7f48d9c4e3a76e67122/transformed/core-1.5.0/annotations.zip!/" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/cf64ebe597513e632063dbbbf17fedbc/transformed/core-1.5.0/annotations.zip!/" />
     </ANNOTATIONS>
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/71df2256907dd7f48d9c4e3a76e67122/transformed/core-1.5.0/jars/classes.jar!/" />
-      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/71df2256907dd7f48d9c4e3a76e67122/transformed/core-1.5.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/71df2256907dd7f48d9c4e3a76e67122/transformed/core-1.5.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/cf64ebe597513e632063dbbbf17fedbc/transformed/core-1.5.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/cf64ebe597513e632063dbbbf17fedbc/transformed/core-1.5.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/cf64ebe597513e632063dbbbf17fedbc/transformed/core-1.5.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>

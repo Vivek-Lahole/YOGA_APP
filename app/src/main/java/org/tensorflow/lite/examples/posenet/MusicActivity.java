@@ -80,18 +80,18 @@ public class MusicActivity extends AppCompatActivity {
                 int focusChange = audioManager.requestAudioFocus(afChangeListener, AudioManager.STREAM_MUSIC, AudioManager.AUDIOFOCUS_GAIN_TRANSIENT);
                 if (focusChange == AudioManager.AUDIOFOCUS_REQUEST_GRANTED) {
 
-                    if(song_to_paly.get(position).getIs_playing()){
-                        song_to_paly.get(position).setIs_playing(false);
-                        mediaPlayer.pause();
-                        return;
-                    }
-
-//                    if(!mediaPlayer.isPlaying()) {
-//                        mediaPlayer.start();
+//                    if(song_to_paly.get(position).getIs_playing()){
+//                        song_to_paly.get(position).setIs_playing(false);
+//                        mediaPlayer.pause();
 //                        return;
 //                    }
-
-                    song_to_paly.get(position).setIs_playing(true);
+//
+////                    if(!mediaPlayer.isPlaying()) {
+////                        mediaPlayer.start();
+////                        return;
+////                    }
+//
+////                    song_to_paly.get(position).setIs_playing(true);
                     releaseMediaPlayer();
 
                     mediaPlayer = MediaPlayer.create(MusicActivity.this, song_to_paly.get(position).getSong_id());

@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: org.tensorflow:tensorflow-lite:2.2.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/95b16f9aa97964732c666a4e96abd858/transformed/tensorflow-lite-2.2.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/95b16f9aa97964732c666a4e96abd858/transformed/tensorflow-lite-2.2.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/95b16f9aa97964732c666a4e96abd858/transformed/tensorflow-lite-2.2.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/4aaf526d2e5796112aeff82b8ecc7bc1/transformed/tensorflow-lite-2.2.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/4aaf526d2e5796112aeff82b8ecc7bc1/transformed/tensorflow-lite-2.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/4aaf526d2e5796112aeff82b8ecc7bc1/transformed/tensorflow-lite-2.2.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

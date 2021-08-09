@@ -1,9 +1,10 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.core:core-ktx:1.1.0@aar">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/368608caa2457fcd54ee536ed00de1a9/transformed/core-ktx-1.1.0/jars/classes.jar!/" />
       <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/368608caa2457fcd54ee536ed00de1a9/transformed/core-ktx-1.1.0/res" />
-      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/368608caa2457fcd54ee536ed00de1a9/transformed/core-ktx-1.1.0/AndroidManifest.xml" />
+      <root url="jar://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/68b6ecfe6645e6527bfe8a01c0747334/transformed/core-ktx-1.1.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/68b6ecfe6645e6527bfe8a01c0747334/transformed/core-ktx-1.1.0/AndroidManifest.xml" />
+      <root url="file://$PROJECT_DIR$/../../../../../../Softwares/Android Studio/gradle-6.9/caches/transforms-3/68b6ecfe6645e6527bfe8a01c0747334/transformed/core-ktx-1.1.0/res" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
