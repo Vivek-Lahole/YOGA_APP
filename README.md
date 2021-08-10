@@ -1,14 +1,17 @@
-# See the new pose estimation TFLite Android sample [here](../../pose_estimation/android), which demonstrates both Posenet and Movenet models. This old Posenet sample will no longer be maintained.
+# See the new YOGA pose estimation Android sample, which demonstrates both Posenet and Movenet models. 
 
 <br/> <br/> <br/> <br/>
 
-## TensorFlow Lite PoseNet Android Demo
+## Yoga Posture detection App (using tenserflowlite posenet library)
 
 ### Overview
- This is an app that continuously detects the body parts in the frames seen by
- your device's camera. These instructions walk you through building and running
- the demo on an Android device. Camera captures are discarded immediately after
+ This is an Yoga app that continuously detects the body parts in the frames seen by
+ your device's camera. The yoga app compares the posture of the user with inbuilt 
+ yoga poses and allows user to check if he is performing the yoga pose correctly
+ . Camera captures are discarded immediately after
  use, nothing is stored or saved.
+ 
+ 
 
 ![Demo Image](posenetimage.png)
 
@@ -43,7 +46,12 @@
  enabled at this point. See **[here](
  https://developer.android.com/studio/run/device)** for more details
  on setting up developer devices.
-
+ 
+ 
+ ### Features Of App
+ 1]Detects runtime posture of user using device camera and compares the posture with inbuilt yoga poses.
+ 2]Provides steps for Yoga aasan and timer to calculate  the time of perfect posture .
+ 3]User can create their own yoga pose , using custom yoga pose .
 
 ### Model used
 Downloading, extraction and placement in assets folder has been managed
