@@ -1,6 +1,6 @@
 # See the new YOGA pose estimation Android sample, which demonstrates both Posenet and Movenet models. 
 
-<br/> <br/> <br/> <br/>
+<br/> <br/> 
 
 ## Yoga Posture detection App (using tenserflowlite posenet library)
 
@@ -14,6 +14,18 @@
  
 
 ![Demo Image](posenetimage.png)
+
+
+## Features Of App
+ Detects the user's posture in real-time using the device camera and compares it to pre-programmed yoga postures.
+
+ *Steps and instructions for Yoga aasan are provided, as well as a timer to calculate the time spent in correct posture.
+  
+ *When the user's posture matches up to 75%, the Timer starts, and when the posture is distorted, the Timer resets.
+  
+ *Using the custom yoga position function, users may build their own yoga stance by uploading an image of the posture they wish to compare it to.
+ 
+ *With the inbuilt media player and songs given with the app, users may listen to music while doing yoga.
 
 ## Build the demo using Android Studio
 
@@ -46,12 +58,7 @@
  enabled at this point. See **[here](
  https://developer.android.com/studio/run/device)** for more details
  on setting up developer devices.
- 
- 
- ### Features Of App
- 1]Detects runtime posture of user using device camera and compares the posture with inbuilt yoga poses.
- 2]Provides steps for Yoga aasan and timer to calculate  the time of perfect posture .
- 3]User can create their own yoga pose , using custom yoga pose .
+
 
 ### Model used
 Downloading, extraction and placement in assets folder has been managed
