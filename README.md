@@ -2,6 +2,10 @@
 
 <br/> <br/> 
 
+## Demo
+
+https://github.com/Vivek-Lahole/YOGA_APP/assets/82323706/9733f285-1fb0-4ed7-9675-0c19bab7ac64
+
 ## Yoga Posture detection App (using tenserflowlite posenet library)
 
 ### Overview
